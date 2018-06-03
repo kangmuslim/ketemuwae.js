@@ -1,0 +1,2 @@
+# ketemuwae.js
+ketemuwae
